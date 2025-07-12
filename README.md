@@ -13,15 +13,6 @@ I'm a developer who loves building cool stuff — especially with **Minecraft Be
 
 ---
 
-## 🛠️ Tools & Tech I Use
-
-- 🟨 JavaScript / Node.js
-- 📦 Minecraft Scripting API
-- 🐱 GitHub & Git
-- 🔧 VS Code
-
----
-
 ## 📌 Projects I Worked On
 
 - 🔹 Serenity SkyGen
