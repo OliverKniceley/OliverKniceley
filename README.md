@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Oliver Kniceley
 
-<!--
-**OliverKniceley/OliverKniceley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who loves building cool stuff — especially with **Minecraft Bedrock Scripting** and **JavaScript**. I enjoy solving problems through code and learning how things work behind the scenes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Things I'm Passionate About
+
+- 🧱 **Minecraft Scripting** (Bedrock Edition)
+- 💻 **Programming** 
+- 🧠 Learning how systems work
+- 🎮 Game development and modding
+
+---
+
+## 🛠️ Tools & Tech I Use
+
+- 🟨 JavaScript / Node.js
+- 📦 Minecraft Scripting API
+- 🐱 GitHub & Git
+- 🔧 VS Code
+
+---
+
+## 📌 Projects I Worked On
+
+- 🔹 Serenity SkyGen
+- 🔹 Mineverse HUB
+
+---
+
+## 📫 How to Reach Me
+
+- 💬 [Ask me on GitHub Discussions](https://github.com/OliverKniceley)
+- 📨 [Discord](https://discordapp.com/users/906681773063307364)
+
+---
+
+
