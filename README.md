@@ -16,7 +16,7 @@ I'm a developer who loves building cool stuff — especially with **Minecraft Be
 ## 📌 Projects I Worked On
 
 - 🔹 [Serenity SkyGen](https://github.com/OliverKniceley/Serenity-SkyGen)
-- 🔹 Mineverse HUB
+- 🔹 [Grow A Ore](https://github.com/OliverKniceley/Grow-A-Ore)
 
 ---
 
